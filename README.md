@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey?logo=sqlite)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-orange?logo=google)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
@@ -34,15 +33,6 @@ to a business stakeholder.
 - **Revenue peaked in **November 2011** and showed a notable dip in **Feburary 2011**
 - **Friday night (9:00 PM - 10:00 PM)** show the highest transaction volume across the week
 - Monthly unique active customers ranged from **615** to **1664**, with growth visible in Q4
-
----
-
-## Live Dashboard
-
-👉 **[Click here to view the Looker Studio Dashboard](YOUR_LOOKER_STUDIO_LINK_HERE)**
-
-> The dashboard includes interactive filters by date range and country.
-> Built using the cleaned retail dataset exported from the Python analysis.
 
 ---
 
@@ -94,7 +84,7 @@ Contains transactional data from a UK-based online retailer between 2010 and 201
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-analytics-dashboard.git
+git clone https://github.com/raghav5080/ecommerce-analytics-dashboard.git
 cd ecommerce-analytics-dashboard
 ```
 
@@ -143,7 +133,7 @@ Key patterns covered:
 
 **Raghav Dixit**
 Data Analyst | Bengaluru, India
-[LinkedIn](https://www.linkedin.com/in/raghavdixit-5776451a5) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/raghavdixit-5776451a5) · [GitHub](https://github.com/raghav5080)
 
 ---
 
