@@ -30,12 +30,10 @@ to a business stakeholder.
 ## Key Findings
 
 - **UK accounts for 84% of total revenue**, making it the dominant market by a significant margin
-- **[Top product name]** was the highest-selling item with **[X] units sold** across the period
-- **Revenue peaked in [Month Year]** and showed a notable dip in **[Month Year]**
-- **Tuesday afternoons (12–2 PM)** show the highest transaction volume across the week
-- Monthly unique active customers ranged from **[min]** to **[max]**, with growth visible in Q4
-
-> 💡 Replace the bracketed values above with your actual findings from the notebook before publishing.
+- **PAPER CRAFT , LITTLE BIRDIE** was the highest-selling item with **80995** across the period
+- **Revenue peaked in **November 2011** and showed a notable dip in **Feburary 2011**
+- **Friday night (9:00 PM - 10:00 PM)** show the highest transaction volume across the week
+- Monthly unique active customers ranged from **615** to **1664**, with growth visible in Q4
 
 ---
 
@@ -110,7 +108,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-**4. Open** `ecommerce_analysis.ipynb` and run all cells top to bottom.
+**4. Open** `ecommerce_analysis_celan.ipynb` and run all cells top to bottom.
 
 > Note: The raw dataset (`online_retail.csv`) is not included due to file size.
 > Download it from [Kaggle — E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
